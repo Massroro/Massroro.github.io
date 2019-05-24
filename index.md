@@ -2,6 +2,16 @@
 
 Le but de ce travail est de trouver la trajectoire d’une balle de golf. Il faut donc savoir de quoi
 dépend cette trajectoire.
+
+**Elle dépend :**
+- Des paramètres initiaux
+  - Vitesse initiale
+  - Angle initial
+- Des paramètreslors du vol
+  - Le poids
+  - Le frottement
+  - La force de Magnus
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
