@@ -1,9 +1,7 @@
-## Welcome to TEST
+## Physique du Golf
 
-You can use the [editor on GitHub](https://github.com/Massroro/massroro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+YLe but de ce travail est de trouver la trajectoire d’une balle de golf. Il faut donc savoir de quoi
+dépend cette trajectoire.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
