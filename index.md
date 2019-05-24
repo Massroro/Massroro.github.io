@@ -41,12 +41,12 @@ Un club est caractérisé par deux choses :
  
 ***
 
-**Voici la trajectoire simplifiée**
+## La trajectoire simplifiée
 [Link](url) and 
 
 ![balistique](balistique.png)
 
-**Voici la trajectoire réelle**
+## La trajectoire réelle
 [Link](url) and 
 
 ![trajréelle](6490952.jpg)
