@@ -42,3 +42,6 @@ Nous séparerons ce travail en deux parties: tout d'abord on simplifiera la traj
 ![balistique](balistique.png)
 
 **Voici la trajectoire réelle**
+[Link](url) and 
+
+![trajréelle](6490952.jpg)
