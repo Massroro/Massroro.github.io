@@ -50,7 +50,7 @@ Nous séparerons ce travail en deux parties: tout d'abord on simplifiera la traj
 
 
 
-Trajectoire simplifiée :
+### Trajectoire simplifiée :
 [Page2](2.md)
 
 	
