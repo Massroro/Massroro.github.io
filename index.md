@@ -17,15 +17,14 @@ Un club est caractérisé par deux choses :
 * sa longueur
 * son angle d'ouverture (loft)
 > voici un exemple de quelques clubs 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+| Club        | Longueur       | Loft        |
+| ----------- | : ------------:| ----------: |
+| Fer 5       | 0,96 m         | 22°         |
+| Fer 7       | 0,94 m         | 29°         |
+| Fer 9       | 0,91 m         | 38°         |
+| Sandwedge   | 0,89 m         | 54°         |
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
