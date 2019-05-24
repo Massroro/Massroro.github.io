@@ -51,6 +51,6 @@ Nous séparerons ce travail en deux parties: tout d'abord on simplifiera la traj
 Pour en savoir +, cliquez sur la page 2 
 
 
-[Page2](page2.md.html)
+[Page2](p2.md)
 
 	
