@@ -1,3 +1,5 @@
+#### Accueil: [Page 1](index.md)  #### Trajectoire simplifiée :[Page2](2.md)
+
 # Physique du Golf
 
 Le but de ce travail est de trouver la trajectoire d’une balle de golf. Il faut donc savoir de quoi
