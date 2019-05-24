@@ -1,4 +1,4 @@
-#### Accueil: [Page 1](index.md)  #### Trajectoire simplifiée :[Page2](2.md)
+#### Accueil: [Page 1](index.md)  #### Trajectoire simplifiée: [Page2](2.md)
 
 # Physique du Golf
 
