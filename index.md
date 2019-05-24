@@ -12,13 +12,11 @@ dépend cette trajectoire.
   - Le frottement
   - La force de Magnus
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+### Caractéristiques d'un club
+Un club est caractérisé par deux choses :
+* sa longueur
+* son angle d'ouverture (loft)
+> voici un exemple de quelques clubs 
 # Header 1
 ## Header 2
 ### Header 3
