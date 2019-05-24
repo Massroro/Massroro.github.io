@@ -32,6 +32,8 @@ Un club est caractérisé par deux choses :
 
 
 
+
+
 ```
 Nous séparerons ce travail en deux parties: tout d'abord on simplifiera la trajectoire en une trajectoire de balistique en terrain plat et ensuite on parlera de l'influence de l'air.
 
