@@ -42,11 +42,13 @@ Un club est caractérisé par deux choses :
 ***
 
 ## La trajectoire simplifiée [Page2](2.md)
+Voici à quoi ressemble le premier type de trajectoire étudié.
 [Link](url) and 
 
 ![balistique](balistique.png)
 
 ## La trajectoire réelle
+Voilà la trajectoire réelle d'une balle de golf. Comme vous pouvez le voir elle n'est -contrairement à la première- pas simplifiée ce qui complique grandement l'analyse.
 [Link](url) and 
 
 ![trajréelle](6490952.jpg)
