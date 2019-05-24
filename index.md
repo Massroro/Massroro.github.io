@@ -1,4 +1,4 @@
-## Physique du Golf
+# Physique du Golf
 
 Le but de ce travail est de trouver la trajectoire d’une balle de golf. Il faut donc savoir de quoi
 dépend cette trajectoire.
@@ -12,7 +12,7 @@ dépend cette trajectoire.
   - Le frottement
   - La force de Magnus
 
-### Caractéristiques d'un club
+## Caractéristiques d'un club
 Un club est caractérisé par deux choses :
 * sa longueur
 * son angle d'ouverture (loft)
