@@ -1,6 +1,6 @@
 ## Physique du Golf
 
-YLe but de ce travail est de trouver la trajectoire d’une balle de golf. Il faut donc savoir de quoi
+Le but de ce travail est de trouver la trajectoire d’une balle de golf. Il faut donc savoir de quoi
 dépend cette trajectoire.
 ### Markdown
 
