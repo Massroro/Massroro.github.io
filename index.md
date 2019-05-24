@@ -16,7 +16,12 @@ dépend cette trajectoire.
 Un club est caractérisé par deux choses :
 * sa longueur
 * son angle d'ouverture (loft)
-> voici un exemple de quelques clubs 
+```
+
+ voici un exemple de quelques clubs
+ ```
+
+ 
 
 | Club        | Longueur       | Loft        |
 | ----------- | : ------------:| ----------: |
@@ -24,6 +29,8 @@ Un club est caractérisé par deux choses :
 | Fer 7       | 0,94 m         | 29°         |
 | Fer 9       | 0,91 m         | 38°         |
 | Sandwedge   | 0,89 m         | 54°         |
+
+
 
 ```
 Nous séparerons ce travail en deux parties: tout d'abord on simplifiera la trajectoire en une trajectoire de balistique en terrain plat et ensuite on parlera de l'influence de l'air.
