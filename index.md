@@ -7,7 +7,7 @@ dépend cette trajectoire.
 - Des paramètres initiaux
   - Vitesse initiale
   - Angle initial
-- Des paramètreslors du vol
+- Des paramètres lors du vol
   - Le poids
   - Le frottement
   - La force de Magnus
